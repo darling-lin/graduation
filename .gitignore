@@ -1,0 +1,8 @@
+/images/
+/myData/
+/runs/
+/output/
+/weights/
+/.idea/
+/.vscode/
+__pycache__
